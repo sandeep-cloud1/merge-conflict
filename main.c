@@ -9,7 +9,4 @@ Initial Security()
 {
  //Sample Code
 }
-security patch()
-{
- //Sample code
-}
+securitypatch111
